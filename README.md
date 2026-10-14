@@ -5,4 +5,4 @@
 
 
 ### 📄 工具
-[检查linux操作系统是否发生过OOM](https://zhgcui.github.io/something/doc/oom_collect.sh)
+[检查linux操作系统是否发生过OOM](https://github.com/zhgcui/something/blob/main/doc/oom_collect.sh)
